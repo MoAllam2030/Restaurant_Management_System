@@ -1,4 +1,4 @@
-from entities import Table, Order
+from entity import Table, Order
 from inventory_menu import RestaurantData
 from kitchen import KitchenSystem
 from billing import BillingSystem, CardPayment

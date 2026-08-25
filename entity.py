@@ -1,4 +1,3 @@
-# entities.py
 from datetime import datetime
 
 class MenuItem:

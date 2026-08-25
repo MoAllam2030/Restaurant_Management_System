@@ -1,5 +1,5 @@
 # inventory_menu.py
-from entities import MenuItem
+from entity import MenuItem
 
 class RestaurantData:
     def __init__(self):
